@@ -1,0 +1,77 @@
+#table {
+    margin-top: 20px;
+}
+
+#message {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 450px;
+    margin-right: 100px;
+}
+
+#messagetext {
+    text-align: center;
+}
+
+#container { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#genreselection{
+    width: 500px;
+}
+
+#submitbtn{
+    width: 200px;
+    border-radius: 3.5px;
+    margin-top: 70px;
+}
+
+#btncol {
+    margin: 3px;
+    width: 10px;
+    text-align: center;
+}
+
+.btn-secondary{
+    width: 100px;
+    text-align: center;
+}
+
+.pagelink{
+    margin-left: 20px;
+    font-weight: 100px;
+    font-weight: bold;
+    font-size: 20px;
+}
+header{
+    background-image: url(istockphoto-1177967778-612x612.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.h1{
+    padding-left: 300px;
+    font-style: oblique;
+}
+#djd{
+    color: aliceblue;
+    padding-right: 30px;
+    font-size: 20px;
+    border-radius: 50%;
+
+}
+.class2{
+    font-weight: bold;
+    font-size: 22px;
+    font-style: oblique;
+}
+#span{
+    color: red;
+}
+#class3{
+    font-style: oblique;
+    
+}
